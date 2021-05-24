@@ -5,7 +5,7 @@ Programmer(C++ and Python).
 CTF Player.  
 Part time Hacker.  
 ## My Stats 📊:  
-![Kanad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arduino3128&show_icons=true&theme=merko)  
+![Kanad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arduino3128&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arduino3128&hide=&layout=compact&theme=merko)  
 
 ## Reach out to me via 👋:  
