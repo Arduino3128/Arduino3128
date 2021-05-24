@@ -1,14 +1,14 @@
-### Hi there 👋 I am Kanad Nemade 🤖  
+# Hi there 👋 I am Kanad Nemade 🤖  
 
-### About Me
+## About Me 👨‍💻:
 Programmer(C++ and Python).  
 CTF Player.  
 Part time Hacker.  
-### My Stats 📊:  
+## My Stats 📊:  
 ![Kanad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arduino3128&show_icons=true&theme=merko)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arduino3128&hide=&layout=compact&theme=merko)  
 
-### Reach out to me via 👋:  
+## Reach out to me via 👋:  
 [![alt text][4.1]][4]
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
