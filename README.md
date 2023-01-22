@@ -1,10 +1,21 @@
 # Hi there 👋 I am Kanad Nemade 🤖  
-
-## About Me 👨‍💻:
-Programmer(C++ and Python).  
-CTF Player.  
-Part time Hacker.  
-## My Stats 📊:  
+  
+## About Me 👨‍💻:  
+I am a second-year undergraduate student pursuing Bachelor in Technology in "Mechanical Engineering 🔧 with Specialization in Robotics" at Manipal University Jaipur, interested in Robotics 🤖 and Cybersecurity 🐱‍💻.  
+  
+I am an Undergraduate Researcher at BIONAC & EnBioMatRIC and a Working Team Member of Mars Rover MUJ 🪐 and working on the design and simulation of Chassis 🛰️ and Robotic Arm 🦾.   
+I currently work as Lead Bot @Cyber Junk Foundation.  
+  
+🎯 My skill set includes:  
+  
+✔️ Fusion 360, Autodesk Inventor, Ansys and MATLAB.   
+✔️ Python, C/C++.  
+✔️ Arduino and Raspberry Pi.  
+✔️ Robot Operating System (ROS-2)  
+  
+In my spare time, I work on Robots and related Systems.    
+  
+## My Stats 📊:    
 ![Kanad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arduino3128&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arduino3128&hide=&layout=compact&theme=merko)  
 
