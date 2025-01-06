@@ -1,10 +1,10 @@
 # Hi there 👋 I am Kanad Nemade 🤖  
   
 ## About Me 👨‍💻:  
-I am a second-year undergraduate student pursuing Bachelor in Technology in "Mechanical Engineering 🔧 with Specialization in Robotics" at Manipal University Jaipur, interested in Robotics 🤖 and Cybersecurity 🐱‍💻.  
+I am an undergraduate student pursuing Bachelor in Technology in "Mechanical Engineering 🔧 with Specialization in Robotics" at Manipal University Jaipur, interested in Robotics 🤖.  
   
 I am an Undergraduate Researcher at BIONAC & EnBioMatRIC and a Working Team Member of Mars Rover MUJ 🪐 and working on the design and simulation of Chassis 🛰️ and Robotic Arm 🦾.   
-I currently work as Lead Bot @Cyber Junk Foundation.  
+I worked as a Lead Bot @Cyber Junk Foundation.  
   
 🎯 My skill set includes:  
   
